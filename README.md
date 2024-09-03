@@ -1,5 +1,4 @@
 # AlphaFold
-ALPHAFOLD
 
 Proteins, essential molecular machines, perform important bodily functions including contracting muscles, digesting food, and healing wounds. They also provide structural support by reinforcing the shape of cells and tissues. In oncology, they are key players in cancer mechanisms and treatment targets. Understanding their structures is essential to investigating their functions. However, only about 100,000 unique protein structures have been determined, a minute fraction of the billions of known protein sequences.
 
